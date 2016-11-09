@@ -1,8 +1,6 @@
 {
   "private": true,
-  "devDependencies": {
-    "markdown-toc": "^0.13.0"
-  },
+  "devDependencies": {},
   "name": "tiny-svg-icons",
   "version": "1.0.0",
   "main": "index.js",

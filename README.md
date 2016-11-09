@@ -2,17 +2,6 @@
 
 This is an addtion to [bytesize-icons](https://github.com/danklammer/bytesize-icons), and this is also my personal practice. I will make at least one new icon each week.
 
-## Table of Contents
-
-<!-- toc -->
-
-- [Icons](#icons)
-  * [minimize](#minimize)
-  * [compass](#compass)
-- [License](#license)
-
-<!-- tocstop -->
-
 ## Icons
 
 <img src="https://cdn.rawgit.com/egoist/tiny-svg-icons/master/dist/minimize.svg" alt="minimize" width="40" />|minimize
@@ -25,9 +14,6 @@ This is an addtion to [bytesize-icons](https://github.com/danklammer/bytesize-ic
 ```
 
 Try it on [jsbin.com](http://jsbin.com/qafexet/edit?html,output)
-
-
-##
 
 <img src="https://cdn.rawgit.com/egoist/tiny-svg-icons/master/dist/compass.svg" alt="minimize" width="40" />|compass
 ---|---
