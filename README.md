@@ -15,9 +15,8 @@ This is an addtion to [bytesize-icons](https://github.com/danklammer/bytesize-ic
 
 ## Icons
 
-### minimize
-
-<img src="./dist/minimize.svg" alt="minimize" width="32" />
+<img src="./dist/minimize.svg" alt="minimize" width="40" />|minimize
+---|---
 
 ```html
 <svg id="i-minimize" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.25%">
@@ -27,9 +26,11 @@ This is an addtion to [bytesize-icons](https://github.com/danklammer/bytesize-ic
 
 Try it on [jsbin.com](http://jsbin.com/qafexet/edit?html,output)
 
-### compass
 
-<img src="./dist/compass.png" alt="minimize" width="32" />
+##
+
+<img src="./dist/compass.svg" alt="minimize" width="40" />|compass
+---|---
 
 ```html
 <svg id="i-compass" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.25%">
