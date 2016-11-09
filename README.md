@@ -15,7 +15,7 @@ This is an addtion to [bytesize-icons](https://github.com/danklammer/bytesize-ic
 
 ## Icons
 
-<img src="./dist/minimize.svg" alt="minimize" width="40" />|minimize
+<img src="https://cdn.rawgit.com/egoist/tiny-svg-icons/master/dist/minimize.svg" alt="minimize" width="40" />|minimize
 ---|---
 
 ```html
@@ -29,7 +29,7 @@ Try it on [jsbin.com](http://jsbin.com/qafexet/edit?html,output)
 
 ##
 
-<img src="./dist/compass.svg" alt="minimize" width="40" />|compass
+<img src="https://cdn.rawgit.com/egoist/tiny-svg-icons/master/dist/compass.svg" alt="minimize" width="40" />|compass
 ---|---
 
 ```html
