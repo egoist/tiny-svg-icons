@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "devDependencies": {
+    "markdown-toc": "^0.13.0"
+  },
+  "name": "tiny-svg-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:egoist/tiny-svg-icons.git",
+    "type": "git"
+  },
+  "scripts": {
+    "toc": "markdown-toc -i README.md"
+  },
+  "author": "EGOIST <0x142857@gmail.com>",
+  "license": "MIT"
+}
