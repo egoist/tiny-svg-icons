@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="i-minimize" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-  <path d="M5 5 L28 5 L28 28 L5 28 L5 5 M10 22 L23 22" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="i-minimize" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 32 32"><path d="M5 5 L28 5 L28 28 L5 28 L5 5 M10 22 L23 22"/></svg>
